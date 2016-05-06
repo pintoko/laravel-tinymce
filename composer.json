@@ -4,6 +4,7 @@
     "keywords": ["lumen","laravel","tinymce","ckeditor","editor","WYSIWYG","textarea"],
     "homepage": "https://github.com/ktquez/laravel-tinymce",
     "license": "MIT",
+    "minimum-stability": "dev",
     "repositories": [
         {
             "type": "vcs",
