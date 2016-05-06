@@ -1,9 +1,15 @@
 {
-    "name": "pintoko/laravel-tinymce",
+    "name": "ktquez/laravel-tinymce",
     "description": "TinyMCE editor for Laravel and Lumen Framework",
     "keywords": ["lumen","laravel","tinymce","ckeditor","editor","WYSIWYG","textarea"],
     "homepage": "https://github.com/ktquez/laravel-tinymce",
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/pintoko/laravel-tinymce"
+        }
+    ],
     "authors": [
         {
             "name": "Alan Albuquerque: ktquez",
