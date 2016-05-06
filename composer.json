@@ -8,7 +8,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/pintoko/laravel-tinymce"
+            "url": "https://github.com/pintoko/laravel-tinymce.git"
         }
     ],
     "authors": [
